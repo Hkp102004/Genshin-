@@ -1,0 +1,295 @@
+body{
+    background-image: url("/Image/element.png");
+    background-attachment: fixed;
+}
+.heading{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    color: white;
+    text-align: center;
+}
+.heading h1{
+    font-size: 100px;
+}
+.heading p{
+    font-size:22px;
+}
+.list{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    color: white;
+}
+.list li{
+    font-size: 25px;
+}
+.venti{
+    border: 1px white solid;
+    color: white;
+    padding: 20px;
+    border-radius: 15px;
+    width: 700px;
+    margin-top: 300px;
+    backdrop-filter: blur(5px);
+    transition: all 0.5s ease;
+}
+.venti:hover{
+    box-shadow: 0 0 50px rgb(10, 215, 174);
+    padding: 25px;
+}
+.venti h1{
+    font-size: 40px;
+}
+.venti p{
+    font-size: 20px;
+    padding:10px;
+}
+
+.vepi1{
+    position: absolute;
+    top: 67%;
+    right: -15%;
+    transform: translate(-50%,50%);
+    background-image: url("/Image/MV5BYTY1NjVhMzEtNDdkMS00MjhmLThlOWYtMjU5MGNjMDgwZjY3XkEyXkFqcGc@._V1_.jpg");
+    height: 350px;
+    border: aqua 2px solid;
+    border-radius: 15px;
+    transition: all 0.5s ease;
+}
+.vepi1:hover{
+    box-shadow: 0 0 30px aqua;
+    
+}
+.vepi2{
+    height: 390px;
+    position: absolute;
+    top: 77%;
+    right: -16%;
+    transform: translate(-50%, 50%);
+}
+.zhongli{
+    border: 1px white solid;
+    color: white;
+    padding: 20px;
+    border-radius: 15px;
+    width: 700px;
+    margin-top: 500px;
+    backdrop-filter: blur(5px);
+    transition: all 0.5s ease;
+}
+.zhongli:hover{
+    padding: 25px;
+    box-shadow: 0 0 50px rgb(230, 131, 45);
+}
+
+.zhongli h1{
+    font-size: 40px;
+}
+.zhongli p{
+    font-size: 20px;
+    padding:10px;
+}
+.john{
+    position: absolute;
+    top: 167%;
+    left: 79%;
+    transform: translate(-50%,50%);
+    height: 400px;
+    background-image: url("/Image/Namecard_Background_Zhongli_Planet_Befall.webp");
+    border: 3px rgb(146, 103, 60) solid;
+    border-radius: 10px;
+}
+.john2{
+    height: 420px;
+    position: absolute;
+    top: 180%;
+    left: 79%;
+    transform: translate(-50%, 50%);
+}
+.raiden{
+    border: 1px white solid;
+    color: white;
+    padding: 20px;
+    border-radius: 15px;
+    width: 700px;
+    margin-top: 600px;
+    backdrop-filter: blur(5px);
+    transition: all 0.5s ease;
+}
+.raiden:hover{
+    padding: 25px;
+    box-shadow: 0 0 50px rgb(181, 81, 235);
+}
+.raiden h1{
+    font-size: 40px;
+}
+.raiden p{
+    font-size: 20px;
+    padding:10px;
+}
+.rai1{
+    position: absolute;
+    top: 282%;
+    left: 79%;
+    transform: translate(-50%,50%);
+    height: 440px;
+    background-image: url("/Image/0a459833e05b01207c5a292e1534691d_3710056536389241114.webp");
+    border: 3px rgb(78, 45, 120) solid;
+    border-radius: 10px;
+}
+.rai2{
+    height: 420px;
+    position: absolute;
+    top: 305%;
+    left: 79%;
+    transform: translate(-50%, 50%);
+}
+.nahida{
+    border: 1px white solid;
+    color: white;
+    padding: 20px;
+    border-radius: 15px;
+    width: 700px;
+    margin-top: 600px;
+    backdrop-filter: blur(5px);
+    transition: all 0.5s ease;
+}
+.nahida:hover{
+    padding: 25px;
+    box-shadow: 0 0 50px rgb(79, 238, 25);
+}
+.nahida h1{
+    font-size: 40px;
+}
+.nahida p{
+    font-size: 20px;
+    padding:10px;
+}
+.nah1{
+    position: absolute;
+    top: 401%;
+    left: 79%;
+    transform: translate(-50%,50%);
+    height: 450px;
+    background-image: url("/Image/sumeru.png");
+    border: 3px rgb(154, 222, 165) solid;
+    border-radius: 10px;
+}
+.nah2{
+    height: 420px;
+    position: absolute;
+    top: 425%;
+    left: 79%;
+    transform: translate(-50%, 50%);
+}
+.furina{
+    border: 1px white solid;
+    color: white;
+    padding: 20px;
+    border-radius: 15px;
+    width: 700px;
+    margin-top: 600px;
+    backdrop-filter: blur(5px);
+    transition: all 0.5s ease;
+}
+.furina:hover{
+    padding: 25px;
+    box-shadow: 0 0 50px rgb(4, 146, 254);
+}
+.furina h1{
+    font-size: 40px;
+}
+.furina p{
+    font-size: 20px;
+    padding:10px;
+}
+.fu1{
+    position: absolute;
+    top: 535%;
+    left: 78%;
+    transform: translate(-50%,50%);
+    height: 410px;
+    background-image: url("/Image/fontaine1.png");
+    border: 4px rgb(75, 139, 185) solid;
+    border-radius: 10px;
+}
+.fu2{
+    height: 420px;
+    position: absolute;
+    top: 554%;
+    left: 78%;
+    transform: translate(-50%, 50%);
+}
+.mavuika{
+    border: 1px white solid;
+    color: white;
+    padding: 20px;
+    border-radius: 15px;
+    width: 700px;
+    margin-top: 600px;
+    backdrop-filter: blur(5px);
+    transition: all 0.5s ease;
+}
+.mavuika:hover{
+    padding: 25px;
+    box-shadow: 0 0 50px rgb(248, 63, 7);
+}
+.mavuika h1{
+    font-size: 40px;
+}
+.mavuika p{
+    font-size: 20px;
+    padding:10px;
+}
+.mav1{
+    position: absolute;
+    top: 665%;
+    left: 78%;
+    transform: translate(-50%,50%);
+    height: 410px;
+    background-image: url("/Image/7d3b3a6ed768b1aa8010bf0a80828a61.jpg");
+    border: 3px rgb(129, 58, 26) solid;
+    border-radius: 10px;
+}
+.mav2{
+    height: 420px;
+    position: absolute;
+    top: 683%;
+    left: 78%;
+    transform: translate(-50%, 50%);
+}
+.tsaritsa{
+    border: 1px white solid;
+    color: white;
+    padding: 20px;
+    border-radius: 15px;
+    width: 700px;
+    margin-top: 600px;
+    backdrop-filter: blur(5px);
+    transition: all 0.5s ease;
+}
+.tsaritsa:hover{
+    padding: 25px;
+    box-shadow: 0 0 50px rgb(171, 196, 255);
+}
+.tsaritsa h1{
+    font-size: 40px;
+}
+.tsaritsa p{
+    font-size: 20px;
+    padding:10px;
+}
+.tsa1{
+    position: absolute;
+    top: 785%;
+    left: 78%;
+    transform: translate(-50%,50%);
+    height: 390px;
+    background-image: url("/Image/7d3b3a6ed768b1aa8010bf0a80828a61.jpg");
+    border: 3px rgb(92, 138, 125) solid;
+    border-radius: 10px;
+}
+.tsa2{
+    height: 420px;
+    position: absolute;
+    top: 800%;
+    left: 78%;
+    transform: translate(-50%, 50%);
+}
