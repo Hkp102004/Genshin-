@@ -1,5 +1,5 @@
 body{
-    background-image: url("/Image/element.png");
+    background-image: url("Image/element.png");
     background-attachment: fixed;
 }
 .heading{
